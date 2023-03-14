@@ -3,11 +3,6 @@
 .wrapper {
   overflow: hidden;
 
-  @media (max-width: $sm) {
-    height: 45rem;
-    overflow-y: visible;
-  }
-
   .container {
     position: relative;
     z-index: 1;
